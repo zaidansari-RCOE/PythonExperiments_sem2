@@ -8,4 +8,6 @@
 name = input("Enter your name: ")
 print("Hello, " + name + "! Nice to meet you.")
 
-
+'''Output:
+Enter your name: zaid
+Hello, zaid! Nice to meet you.'''
